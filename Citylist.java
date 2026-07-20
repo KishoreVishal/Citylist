@@ -11,7 +11,7 @@ class City {
 
         city.add("Madurai");
         city.add("Chennai");
-        city.add("Trichy");C
+        city.add("Trichy");
 
         System.out.println("Initial List: " + city);
 
